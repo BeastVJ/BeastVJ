@@ -28,9 +28,6 @@
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="50" />  Coding Profiles  
 <div align="center">
     
-  <a href="">[![GFG-Stats][gfg-stats-url]][gfg-url]</a>
-  
-  <a href="">[![Leetcode-Stats][leetcode-stats-url]][leetcode-url]</a>
 
 </div>
 
@@ -39,8 +36,6 @@
 [![Gmail][gmail-shield]][gmail-url]
 [![Linkedin][linkedin-shield]][linkedin-url]
 [![Github][github-shield]][github-url]
-[![LeetCode][leetcode-shield]][leetcode-url]
-[![GFG][gfg-shield]][gfg-url]
 <br>
 
 <div align="center">
